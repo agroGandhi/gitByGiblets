@@ -1,4 +1,4 @@
 # gitByGiblets
 
 #MMMMMMM......TASTY!
-#CONFLICT
+#EXPERIMENTATION
